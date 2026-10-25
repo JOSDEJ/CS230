@@ -27,7 +27,3 @@ I read the client's needs in two layers. The explicit requirements (teams, playe
 ### How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
 
 I started from the requirements, modeled the domain, and then chose patterns that matched specific problems. I wrote down constraints and open questions (such as storage and scaling) early instead of hiding them. Next time I would do the same, and I would also estimate capacity numbers earlier, such as concurrent players and storage, build a quick threat model for security, and test the design against a prototype before committing to the architecture. I would keep using UML diagrams, comparison tables, and a topology diagram, because they make a design easier for both clients and developers to review.
-
-## AI Usage
-
-*Replace this note with your own acknowledgment, worded as your course requires.* For example: "I used Claude (Anthropic) to help draft and edit parts of the Recommendations section of the design document and this README. I reviewed and revised the content myself." Cite it following the Shapiro Library guide on citing AI tools.
