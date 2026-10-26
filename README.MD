@@ -1,4 +1,5 @@
-# CS 230 Portfolio: Draw It or Lose It Software Design Document
+# CS 230 Portfolio: 
+Draw It or Lose It Software Design Document
 
 This repository holds the completed software design document I wrote for The Gaming Room (`CS_230_Project_Software_Design_Document.docx`), along with the Java prototype code from Project One.
 
